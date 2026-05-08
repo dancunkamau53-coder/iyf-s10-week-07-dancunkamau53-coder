@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: linear-gradient(to right, #1e3a8a, #0ea5e9);
+    color: lightblue
+}
+
+.dashboard {
+    text-align: horizontal;
+    padding: 30px;
+}
+
+.search input {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+.search button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #38bdf8;
+    cursor: pointer;
+}
+
+.card {
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.1);
+    display: inline-block;
+    backdrop-filter: blur(10px);
+}
+
+img {
+    width: 100px;
+}
