@@ -26,4 +26,4 @@
  Launch the Weather App in your browser or mobile device.
 
 ## Live Demo (if deployed)
- *http://127.0.0.1:5500/index.html
+ *http:/8b682624fbbb45ec1a849708b8ee57f3/index.html
